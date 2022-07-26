@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #829A8E;
+}
+
+.logo {
+    width: 200px;
+    height: 200px;
+    background-image: url(./multimedia/Logo/logo.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    color: white;
+    font-size: 40px;
+    line-height: 190px;
+    text-align: center;
+}
+
+.logo_2 {
+    text-decoration: line-through;
+}
+
+.logo_3 {
+    color: red;
+}
+
+.peliculas {
+    background-color: #035454;
+    height: auto;
+    color: antiquewhite;
+    text-align: center;
+}
+
+.jumbotronPadre {
+    background-color: #044140;
+}
+
+.jumbotron {
+    background-image: url(./multimedia/Imagen/Morbius.jpeg);
+    background-position: top;
+    background-size: cover;
+    margin-bottom: 0px;
+}
+
+.indexReseña {
+    padding-top: 0px;
+    background-color: #0F3130;
+}
+
+.indexListas {
+    font-size: 20px;
+    padding: 30px;
+    text-align: justify;
+    background-color: #01282A;
+}
+
+.indexMorbicancion_tabla {
+    background-color: #041E1F;
+}
+
+.morbicancion {
+    height: 350px;
+    overflow: auto;
+}
+
+.multimediaCarrusel {
+    background-color: #044140;
+    text-align: center;
+    display: grid;
+    justify-content: center;
+}
+
+.multimediaEscenas {
+    text-align: center;
+    background-color: #0F3130;
+}
+
+.multimediaReparto {
+    text-align: center;
+    background-color: #01282A;
+}
+
+.multimediaVideo {
+    text-align: center;
+    display: grid;
+    justify-content: center;
+    background-color: #041E1F;
+    padding: 10px;
+}
+
+iframe {
+    height: 350px;
+}
+
+.noticias {
+    text-align: center;
+}
+
+.noticia1 {
+    background-color: #044140;
+}
+
+.noticia2 {
+    background-color: #0F3130;
+}
+
+.noticia3 {
+    background-color: #01282A;
+}
+
+.noticia4 {
+    background-color: #041E1F;
+}
